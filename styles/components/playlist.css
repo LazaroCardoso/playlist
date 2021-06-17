@@ -1,5 +1,5 @@
 .playlist {
-
+    font-family: "Inter";
 }
 
 .playlist p {
@@ -87,4 +87,17 @@
 
 .playlist__small--title p {
     padding-left: 16px;
+}
+
+.playlist_more {
+    font-weight: bold;
+    padding-left: 12px;
+    margin-top: 24px;
+}
+
+.playlist_more img {
+    display: flex;
+    margin-top: 16px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
 }
