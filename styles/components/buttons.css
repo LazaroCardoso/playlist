@@ -1,6 +1,5 @@
 .buttons {
     font-family: "Inter";
-    position: absolute;
     width: 351px;
     height: 51px;
     left: 12px;
@@ -11,6 +10,10 @@
     border-radius: 4px;
     color: white;
     font-weight: bold;
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 16px;
 
 
 }
