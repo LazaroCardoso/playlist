@@ -1,0 +1,108 @@
+.album {
+    width: 375px;
+    height: 267px;
+    background-color: #f2f2f2;
+    font-family: "Inter";
+}
+
+.album img {
+    position: absolute;
+    height: 140px;
+    left: 114px;
+    right: 114px;
+    top: 85px;
+    border-radius: 4px;
+}
+
+.album h1 {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 193px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Inter";
+}
+
+.album p {
+    background-color: #f2f2f2;
+    font-family: "Inter";
+    margin-top: 4px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.music {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.music__grey {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 50px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.music p {
+    font-weight: bold;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Inter";
+}
+
+.music__grey p {
+    font-weight: bold;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Inter";
+}
+
+.player {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    width: 351px;
+    height: 76px;
+    left: 12px;
+    top: 710px;
+    display: b;
+    margin-top: 200px;
+
+    background: black;
+    border-radius: 9px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.player h1 {
+    font-size: 14px;
+    color: white;
+}
+
+.player h1{
+    color: white;
+    font-weight: bold;
+    padding-top: 17px;
+    padding-left: 25px;
+    margin-bottom: 6px;
+}
+
+.player p{
+    padding-bottom: 19px;
+    padding-left: 22px;
+    color: #f2f2f2;
+}
+
+.btn__player {
+    padding-right: 30px;
+}
